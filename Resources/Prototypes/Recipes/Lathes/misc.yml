@@ -127,11 +127,17 @@
     Plastic: 500
 
 - type: latheRecipe
+  id: ClothingShoesBootsMoon
+  result: ClothingShoesBootsMoon
+  completetime: 2
+  materials:
+    Steel: 600
+
+- type: latheRecipe
   id: ClothingShoesBootsSpeed
   result: ClothingShoesBootsSpeed
   completetime: 2
   materials:
-    LPPDiamond: 2500
     Steel: 1500
     Plastic: 1000
     Silver: 500
@@ -210,17 +216,26 @@
     Glass: 200
 
 - type: latheRecipe
-  id: ClothingShoesBootsMagAdv
-  result: ClothingShoesBootsMagAdv
-  completetime: 12
+  id: ClothingHeadHatCone
+  result: ClothingHeadHatCone
+  completetime: 3
   materials:
-    Silver: 1000
-    Gold: 500
+    Plastic: 200
 
 - type: latheRecipe
-  id: MailCapsule
-  result: MailCapsulePrimed
-  completetime: 1
+  id: CassetteTape
+  result: CassetteTape
+  category: Tools
+  completetime: 2
   materials:
-    Glass: 100
-    Plastic: 100
+    Steel: 50
+    Plastic: 150
+
+- type: latheRecipe
+  id: TapeRecorder
+  result: TapeRecorder
+  category: Tools
+  completetime: 3
+  materials:
+    Steel: 250
+    Plastic: 250
