@@ -214,6 +214,9 @@
         },
         {
             "name": "vials"
-        }
+        },
+		{
+			"name": "recorder"
+		}
     ]
 }
